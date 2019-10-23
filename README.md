@@ -2,7 +2,7 @@
 
 ## CLI
 
-###*The easiest, most fun way to use this simple SVG animator is as a command line program*###
+### *The easiest, most fun way to use this simple SVG animator is as a command line program*
 
 The command-line arguments will be of the form
 
